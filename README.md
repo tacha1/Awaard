@@ -22,3 +22,5 @@ The required installations are:
 4. Search for projects 
 5. View projects overall score
 6. View my profile page
+
+## Dependencies
