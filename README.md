@@ -57,4 +57,10 @@ zipp==3.4.0
 
 For any issues or questions, ideas or concern, please contact me on my e-mail:uwarosine10@gmail.com
 
-## Licence
+### License
+
+MIT license
+
+Copyright (c) 2021 Moringa School
+
+Created with all the love in the world, enjoy it is free of charge.
