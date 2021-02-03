@@ -52,3 +52,7 @@ zipp==3.4.0
 * Postgresql (database)
 * HTML, CSS and BootStrap
 * Heroku
+
+## Support and contact details
+
+For any issues or questions, ideas or concern, please contact me on my e-mail:
