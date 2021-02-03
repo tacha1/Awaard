@@ -55,4 +55,6 @@ zipp==3.4.0
 
 ## Support and contact details
 
-For any issues or questions, ideas or concern, please contact me on my e-mail:
+For any issues or questions, ideas or concern, please contact me on my e-mail:uwarosine10@gmail.com
+
+## Licence
